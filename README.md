@@ -22,12 +22,22 @@
  
 ### PROJECT DESCRIPTION
 ***
-Voice,Sms and Data are key contributors to essesntial to communication.availability ensures cell users are able to operate and performa various activities at their own comfort locations.inaccessibillity/poor communication due to buffer or no connectivity is an hindrace both to the user and business.
+Voice,Sms and Data are key contributors to essential communication.Availability  of services and the dat abt how to get the data online ensures cell users are able to operate and performa various activities at their own comfort locations.inaccessibillity/poor communication due to buffer or no connectivity is an hindrace both to the user and business.
 MTN as a provider in this project was doing an upgrade to ensure we can :
 1.support business
 2.ensure localisation
 3.billing of the various products is acchieved
 4.which cities were the most used  becaouse  of service availability and thus  were most  actively used  for three days during busines hours?
+we have various data that we needed to suject to cleaning then make sence out of it and ensure anyone whu was trying to acces any information would do by making few queries or use of various pands function to get a substancial feedback.
+**Team canon**had various procedural task
+
+ **data cleaning** 
+ **data sorting**
+ **functions()**
+ **data merging of the various excels**
+ **data output**
+
+
 ### screenshots
 ![image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/iwillgetscreenshotsofthejupyterdataandinsert)
 
