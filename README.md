@@ -1,8 +1,10 @@
 
 
-# COTE D’IVOIRE MTN TECHNOLOGY UPGRADE
- This is a model to analyze  data upgrade  of a MTN service provider that 
- is based in cote d'vore with different localised  cities and various product to the local cell users  
+# COTE D’IVOIRE MTN COMMUNICATION TECHNOLOGY
+
+ This is a model to  clean, and analyze  data of MTN service provider that wil assist users get various details.The data has to go through data cleaning procedures to ensure 
+ availability of information that will support business  like **billing prices** and availability of particular geograpgical areas with various loxcalised cities and products    available or the users
+ 
 -------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------
 
@@ -107,7 +109,7 @@ _abijan_
 
 | Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
 |:--------------|:-------------:|--------------:|
-| text-align left | text-align center | text-align right |
+| contacts  | +52361122 | mt@moringasch.co.ke |
 
 
 
