@@ -3,7 +3,7 @@
  is based in cote d'vore with different localised  cities and various product to the local cell users  
 
  ## Table of Content
-  -  project description
+  [link] -  project description
   -  technologies used
   -  usage
   -  project status
@@ -33,14 +33,14 @@ this will give us a review of the status during changes and adjustment and leave
   
 # CONTRIBUTORS
 
-Antony
-Cate
-Winnie
-Bella
-Chris
-Desmond
-Elvis
-Joe
+1. Antony
+2. Cate
+3. Winnie
+4. Bella
+5. Chris
+6. Desmond
+7. Elvis
+8. Joe
 
  
 
