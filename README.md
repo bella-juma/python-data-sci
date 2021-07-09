@@ -107,9 +107,9 @@ _abijan_
 * finely
 
 
-| Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
+| contacts | email | website |
 |:--------------|:-------------:|--------------:|
-| contacts  | +52361122 | mt@moringasch.co.ke |
+| +52361122 | mt@moringasch.com | www.mt.co.ke |
 
 
 
