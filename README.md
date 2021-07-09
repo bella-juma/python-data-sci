@@ -1,9 +1,8 @@
 
 
-# COTE D’IVOIRE MTN COMMUNICATION TECHNOLOGY
+# COTE D’IVOIRE MTN UPGRADE TECHNOLOGY
 
- This is a model to  clean, and analyze  data of MTN service provider that wil assist users get various details.The data has to go through data cleaning procedures to ensure 
- availability of information that will support business  like **billing prices** and availability of particular geograpgical areas with various loxcalised cities and products    available or the users
+ This is a model to  assess , clean, and analyze  data of MTN service provider that wil assist users get various regional details that will ensure good infrastructires to be put  in place .The data cleaning will ensure the data gives strtategies that wil ensure snooth upgrade of the products and services that they offer.
  
 -------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------
@@ -22,13 +21,13 @@
  
 ### PROJECT DESCRIPTION
 ***
-Voice,Sms and Data are key contributors to essential communication.Availability  of services and the dat abt how to get the data online ensures cell users are able to operate and performa various activities at their own comfort locations.inaccessibillity/poor communication due to buffer or no connectivity is an hindrace both to the user and business.
-MTN as a provider in this project was doing an upgrade to ensure we can :
+Voice,Sms and Data are key contributors to essential communication.Good infrustructure  ensures availability  of services and the data  attached will be asesed by team cannon so as to ensure the upgrade is succesfful and better services are offered to users and  ensure localisation.
+cannons were hired as datascientist by the MTN  provider in this project to enusre smooth transition into the upgrade and pick out how the upgrade would  :
 1.support business
 2.ensure localisation
 3.billing of the various products is acchieved
-4.which cities were the most used  becaouse  of service availability and thus  were most  actively used  for three days during busines hours?
-we have various data that we needed to suject to cleaning then make sence out of it and ensure anyone whu was trying to acces any information would do by making few queries or use of various pands function to get a substancial feedback.
+4.imporove infrustructures in cities 
+
 **Team canon**had various procedural task
 
  **data cleaning** 
