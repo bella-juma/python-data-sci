@@ -3,7 +3,8 @@
  is based in cote d'vore with different localised  cities and various product to the local cell users  
 
  ## Table of Content
-  [link] -  project description
+ [link]
+  -  project description
   -  technologies used
   -  usage
   -  project status
