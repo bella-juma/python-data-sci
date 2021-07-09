@@ -40,13 +40,9 @@ A list of technologies used within the project:
  
  ## Installation
  ***
-  introduction to various details installed
-  ````lorem ipsum```
+  introduction to various details installed this should be used here to show linees of codes that is indented i cant figure how to use it
  
-  $ git clone https://example.com
-  $ npm install
- 
-  ```
+
  ###
  
 ## Collaboration
