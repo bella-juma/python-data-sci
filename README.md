@@ -1,4 +1,4 @@
-"markdown-header"
+
 
 # COTE D’IVOIRE MTN TECHNOLOGY UPGRADE
  This is a model to analyze  data upgrade  of a MTN service provider that 
@@ -33,7 +33,8 @@ MTN as a provider in this project was doing an upgrade to ensure we can :
 
 ### TECHNOLOGIES USED
 ***
-A list of technologies used within the project:
+A list ofopen source  used within the project:
+ *[markdown-it]
  * [python libraries]
  * [pandas]
  * [Technology name](https://example.com): Version 12.3 
@@ -42,8 +43,15 @@ A list of technologies used within the project:
  
  ## Installation
  ***
-  introduction to various details installed this should be used here to show linees of codes that is indented i cant figure how to use it
+  Dillinger requires [Node.js](https://nodejs.org/) v10+ to run.
  
+ Install the pandas libary.
+
+```sh
+cd dillinger
+npm i
+node app
+```
 
  ###
  
@@ -73,7 +81,7 @@ this will give us a review of the status during changes and adjustment and leave
 
 ##licences
 **
-
+**canondataware free boot!**
 ## FAQs
 ***
 frequently asked questions
