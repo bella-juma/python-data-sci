@@ -11,15 +11,13 @@
   2. [technologies used](#technologies)
   3. [instalations](#instalations)
   4. [colaborations](#colaborations)
-  4. [usage](#usage)
-  5. [project-status](#project-status)
-  6. [contributors](#contributors)
-  7. [licence](#licence)
-  8. [faqs](#faqs)
+  5. [usage](#usage)
+  6. [project-status](#project-status)
+  7. [contributors](#contributors)
+  8. [licence](#licence)
+  9. [faqs](#faqs)
  
  
-
-<a name="PROJECT DESCRIPTION"><a/>
 ### PROJECT DESCRIPTION
 ***
 Voice,Sms and Data are key contributors to essesntial to communication.availability ensures cell users are able to operate and performa various activities at their own comfort locations.inaccessibillity/poor communication due to buffer or no connectivity is an hindrace both to the user and business.
@@ -34,7 +32,7 @@ MTN as a provider in this project was doing an upgrade to ensure we can :
 ### TECHNOLOGIES USED
 ***
 A list ofopen source  used within the project:
- *[markdown-it]
+ * [markdown-it]
  * [python libraries]
  * [pandas]
  * [Technology name](https://example.com): Version 12.3 
@@ -43,7 +41,9 @@ A list ofopen source  used within the project:
  
  ## Installation
  ***
-  Dillinger requires [Node.js](https://nodejs.org/) v10+ to run.
+ what needs to be used for the data analysis
+ 
+ pandas  requires [Node.js](https://nodejs.org/) v10+ to run.
  
  Install the pandas libary.
 
@@ -53,7 +53,19 @@ npm i
 node app
 ```
 
- ###
+ 
+## Plugins
+
+github is currently extended with the following plugins.
+Instructions on how to use them in your own application are linked below.
+
+| Plugin | README |
+| ------ | ------ |
+| Dropbox | [plugins/dropbox/README.md][PlDb] |
+| GitHub | [plugins/github/README.md][PlGh] |
+| Google Drive | [plugins/googledrive/README.md][PlGd] |
+ 
+
  
 ## Collaboration
 ***
