@@ -2,7 +2,7 @@
 
 # MTN COTE D’IVOIRE UPGRADE STRATEGY
 
- This is a model to  assess , clean, and analyze  data of MTN service provider that wil assist users get various regional details that will ensure good infrastructires to be put  in place .The data cleaning will ensure the data gives strtategies that wil ensure snooth upgrade of the products and services that they offer.
+This is a strategy model that is used by MTN service provider in  Cote D’Ivoire to assess and clean data that will give them insight of how to plan  and understand their resources and infrastructure and how to incorporate an upgrade. The dataset were analysed using pandas and suggestions on the products, resources and the market characteristics obtained during the analyis
  
 -------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------
@@ -29,12 +29,6 @@ A list ofopen source  used within the project:
  * [pandas]
  * [mat plotlib]
   
-
-## Collaboration
-***
->how should we ensure efficient communication during colaborations
-
-
 ### USAGE
 ***
 The project elaborate various data sets that was extracted from an MTN communication company that were to be used to establish, what products are used frequently, what kind markets characteristics do they display in regards to time periods they are used more, which geographical location had more availability and usage. This information was to be cleaned and analysed to give headway on what need to be improved in terms of infrastructure and the target market when an upgrade is to be done
