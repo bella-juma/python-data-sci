@@ -35,7 +35,7 @@ The project elaborate various data sets that was extracted from an MTN communica
 
 ### Project status
 ***
-This guides the contributors and those involved on project work of the upgrade to confirm on various status of the activities on underway.when changes are made within the project work ,notifications to show the ame are updated.
+This guides the contributors and those involved on project work of the upgrade to confirm on various position of the activities.when changes are made within the project work ,notifications to signify an updated is sent to them.
   
 ### CONTRIBUTORS
 ***
