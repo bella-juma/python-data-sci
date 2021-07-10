@@ -24,10 +24,11 @@ The aim is to:
 ### TECHNOLOGIES USED
 ***
 A list of open source  used within the project:
- * [numpy]
  * [python libraries]
+ * [numpy]
  * [pandas]
  * [mat plotlib]
+ * [git]
   
 ### USAGE
 ***
@@ -39,19 +40,19 @@ This guides the contributors and those involved on project work of the upgrade t
   
 ### CONTRIBUTORS
 ***
-1. Antony
-2. Cate
-3. Winnie
-4. Bella
-5. Chris
-6. Desmond
-7. Elvis
-8. Joe
+1. Antony Kahuro
+2. Catherine Gathoni
+3. Winnie Wanja
+4. Bella Juma
+5. Chris Ngige
+6. Desmond Nzioka
+7. Elvis Mwangi
+8. Joe Wambua
+9. Emmanuel Juma
 
 | contacts | email | website |
 |:--------------|:-------------:|--------------:|
 | +52361122 | mt@moringasch.com | www.mt.co.ke |
-
 
 
 
