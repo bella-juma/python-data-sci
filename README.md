@@ -1,6 +1,6 @@
 
 
-# COTE D’IVOIRE MTN UPGRADE TECHNOLOGY
+# MTN COTE D’IVOIRE UPGRADE STRATEGY
 
  This is a model to  assess , clean, and analyze  data of MTN service provider that wil assist users get various regional details that will ensure good infrastructires to be put  in place .The data cleaning will ensure the data gives strtategies that wil ensure snooth upgrade of the products and services that they offer.
  
