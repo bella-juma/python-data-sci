@@ -23,7 +23,7 @@ The aim is to:
 
 ### TECHNOLOGIES USED
 ***
-A list ofopen source  used within the project:
+A list of open source  used within the project:
  * [numpy]
  * [python libraries]
  * [pandas]
