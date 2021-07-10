@@ -2,7 +2,7 @@
 
 # MTN COTE D’IVOIRE UPGRADE STRATEGY
 
-This is a strategy model that is used by MTN service provider in  Cote D’Ivoire to assess and clean data that will give them insight of how to plan  and understand their resources and infrastructure and how to incorporate an upgrade. The dataset were analysed using pandas and suggestions on the products, resources and the market characteristics obtained during the analyis
+This is a strategy model that is used by MTN service provider in  Cote D’Ivoire to assess and clean data that will give them insight of how to plan  and understand their resources and infrastructure and how to incorporate an upgrade. The dataset were analysed using pandas and suggestions on the products, resources and the market characteristics obtained during the analysis
  
 -------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------
