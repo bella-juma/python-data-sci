@@ -13,11 +13,11 @@ Voice, Sms and Data are key contributors to essential communication. Good infras
 Cannons were hired as data scientist by the MTN provider in this project to ensure a smooth transition into the upgrade and pick out how the upgrade would be implemented.
 The project involves a module on data cleaning on the datasets given for MTN Company in Cote D’Ivoire by assessing the products, infrastructure, and the target market in order to make decision and give ideologies to the business on the strategy of an upgrade.
 The aim is to:
-* 1. Evaluate resources on each geographical location and the supposed adjustments that need to be done in order to incorporate an upgrade infrastructure and achieve   better service delivery.
-* 2. Assess the products, know which one is mostly used during business/home hours and between what time and date.
-* 3. Understand the market and come up with decisions to improve product and services for their users.
-* 4. Know the characteristics of the market, what needs to be improved and how to get it implemented.
-* 5. Understand the cities in terms of which ones were more active for three days, within what timelines.
+*  Evaluate resources on each geographical location and the supposed adjustments that need to be done in order to incorporate an upgrade infrastructure and achieve   better service delivery.
+*  Assess the products, know which one is mostly used during business/home hours and between what time and date.
+*  Understand the market and come up with decisions to improve product and services for their users.
+*  Know the characteristics of the market, what needs to be improved and how to get it implemented.
+*  Understand the cities in terms of which ones were more active for three days, within what timelines.
 
 
 
@@ -48,6 +48,3 @@ The project elaborate various data sets that was extracted from an MTN communica
 8. Joe Wambua
 9. Emmanuel Juma
 
-| Contacts | email | website |
-|:--------------|:-------------:|--------------:|
-| +52361122 | mt@moringasch.com | www.mt.co.ke |
